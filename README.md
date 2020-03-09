@@ -6,3 +6,7 @@ Simple Classic Style snake game built using the Swing Framework
 ![](Captures/ss1.png)
 
 ![](Captures/ss2.png)
+
+# Preview
+
+![](Captures/gif.gif)
